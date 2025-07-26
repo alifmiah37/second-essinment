@@ -85,12 +85,12 @@
   width: 1440px;
   height: 533px;
 }
-.img-container{
-  display: grid;
-  grid-template-columns: repeat(4,1fr);
-}
+
 .our-sponsors{
   max-width: 540px;
   margin: 50px auto;
   text-align:center;
+}
+.img-container{
+  
 }
